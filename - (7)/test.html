@@ -1,0 +1,74 @@
+<html>
+    <head>
+        <title>
+            Example
+        </title>
+        <style>
+            * {
+                font-family: Arial;
+             }
+             p{
+                font-size: 14px;
+                line-height: 127%;
+                text-indent: 20px;
+             }
+             .bordered{
+                border: 1px dotted lightgray;
+                padding: 10px;
+                box-sizing: border-box;
+             }
+             .header{
+                width: 100%;
+                flex: 1 0 100%;
+            }
+             .blue-column {
+                background-color: #ffeeee;
+ 
+            }
+            .green-column {
+                background-color: #eeffee;
+            }
+             /*flex related part*/
+            .flex-container {
+                display: flex;
+                flex-direction: row;
+                width: 100%;
+            }
+ 
+            .flex-column-item{
+                flex-grow: 1;
+                flex-shrink: 0;
+                flex-basis:  40%;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-container ">
+            <div class="flex-column-item blue-column bordered">
+                <h1>
+                    Chapter One
+                </h1>
+                <p>
+                    ...
+                </p>
+                <p>
+                    Low Key, who was a grifter from Minnesota, smiled his scarred smile. "Yeah," he said. "That's true. It's even better when you've been sentenced to death. That's when you remember the jokes about the guys who kicked their boots off as the noose flipped around their necks, because their friends always told them they'd die with their boots on."
+                </p>
+                <p>
+                    "Is that a joke?" asked Shadow.
+                </p>
+            </div>
+            <div class="flex-column-item green-column bordered">
+                <p>
+                    "Damn right. Gallows humor. Best kind there is."
+                </p>
+                <p>
+                    "When did they last hang a man in this state?" asked Shadow.
+                </p>
+                <p>
+                    "How the hell should I know?" Lyesmith kept his orange-blond hair pretty much shaved. You could see the lines of his skull. "Tell you what, though. This country started going to hell when they stopped hanging folks. No gallows dirt. No gallows deals."
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

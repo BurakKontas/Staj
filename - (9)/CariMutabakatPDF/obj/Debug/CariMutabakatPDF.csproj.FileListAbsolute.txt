@@ -1,0 +1,12 @@
+C:\Users\konta\source\repos\CariMutabakatPDF\bin\Debug\CariMutabakatPDF.exe.config
+C:\Users\konta\source\repos\CariMutabakatPDF\bin\Debug\CariMutabakatPDF.exe
+C:\Users\konta\source\repos\CariMutabakatPDF\bin\Debug\CariMutabakatPDF.pdb
+C:\Users\konta\source\repos\CariMutabakatPDF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\konta\source\repos\CariMutabakatPDF\bin\Debug\itextsharp.dll
+C:\Users\konta\source\repos\CariMutabakatPDF\bin\Debug\itextsharp.xml
+C:\Users\konta\source\repos\CariMutabakatPDF\obj\Debug\CariMutabakatPDF.csproj.AssemblyReference.cache
+C:\Users\konta\source\repos\CariMutabakatPDF\obj\Debug\CariMutabakatPDF.csproj.SuggestedBindingRedirects.cache
+C:\Users\konta\source\repos\CariMutabakatPDF\obj\Debug\CariMutabakatPDF.csproj.CoreCompileInputs.cache
+C:\Users\konta\source\repos\CariMutabakatPDF\obj\Debug\CariMutabakatPDF.csproj.CopyComplete
+C:\Users\konta\source\repos\CariMutabakatPDF\obj\Debug\CariMutabakatPDF.exe
+C:\Users\konta\source\repos\CariMutabakatPDF\obj\Debug\CariMutabakatPDF.pdb

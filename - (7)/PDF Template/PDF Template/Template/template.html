@@ -1,0 +1,93 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Basic Web Page</title>
+    <style>
+        body {
+            margin: 30px;
+        }
+
+        .container {
+            margin: 10px 0px 0px 0px;
+            align-items: center;
+            margin: 0px 20% 0px 20%;
+        }
+
+        .dateDiv {
+            margin-left:36em;
+            height: 5em;
+        }
+
+        .namingDiv {
+            height: 5em;
+        }
+
+        .descriptionDiv {
+            height: 7em;
+        }
+
+        .tableDiv {
+            height: auto;
+            font-size: 10px;
+        }
+
+        .titleDiv {
+            height: 5em;
+        }
+
+        .demo {
+            border: 1px solid #C0C0C0;
+            border-collapse: collapse;
+            padding: 5px;
+        }
+
+        .demo th {
+            border: 1px solid #C0C0C0;
+            padding: 5px;
+            background: #7030A0;
+            color: white;
+        }
+
+        .demo td {
+            border: 1px solid #C0C0C0;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="dateDiv">
+            <p style="margin-left:20px">Tarih</p>
+            <p style="margin-top:-5px">{{date}}</p>
+        </div>
+        <div class="namingDiv">
+            <p>{{bankName}} BANKASI <br /> {{branchName}} ŞUBESİ DİKKATİNE,</p>
+        </div>
+        <div class="descriptionDiv">
+            <p>Toplam tutarı {{price}} {{exchange}} ({{priceText}}) olan, aşağıda detayları belirtilen {{quantity}} adet EFT ve/veya Havale Talimatı işlemlerinin nezdinizdeki {{account}} hesabımızdan yapılmasını rica ederiz.</p>
+        </div>
+        <div class="tableDiv">
+            <table class="demo">
+                <thead>
+                    <tr>
+                        <th style="width:6em;">SIRA NO</th>
+                        <th style="width:15em;">UNVAN</th>
+                        <th style="width:30em;">IBAN</th>
+                        <th style="width:10em;">TUTAR</th>
+                        <th style="width:4em;">PB</th>
+                        <th style="width:30em;">AÇIKLAMA</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {{table}}
+                </tbody>
+            </table>
+
+
+        </div>
+        <div class="titleDiv">
+            <p>{{company}}</p>
+        </div>
+    </div>
+</body>
+</html>

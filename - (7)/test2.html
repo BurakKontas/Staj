@@ -1,0 +1,481 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="tr" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="x-apple-disable-message-reformatting" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="supported-color-schemes" content="light dark" />
+    <title></title>
+    <style type="text/css" rel="stylesheet" media="all">
+        /* Base ------------------------------ */ @import url("https://fonts.googleapis.com/css?family=Nunito+Sans:400,700&display=swap");
+
+        body {
+            width: 100% !important;
+            height: 100%;
+            margin: 0;
+            -webkit-text-size-adjust: none;
+        }
+
+        a {
+            color: #3869D4;
+        }
+
+            a img {
+                border: none;
+            }
+
+        td {
+            word-break: break-word;
+        }
+
+        .preheader {
+            display: none !important;
+            visibility: hidden;
+            mso-hide: all;
+            font-size: 1px;
+            line-height: 1px;
+            max-height: 0;
+            max-width: 0;
+            opacity: 0;
+            overflow: hidden;
+        }
+        /* Type ------------------------------ */
+
+        body, td, th {
+            font-family: "Nunito Sans", Helvetica, Arial, sans-serif;
+        }
+
+        h1 {
+            margin-top: 0;
+            color: #333333;
+            font-size: 22px;
+            font-weight: bold;
+            text-align: left;
+        }
+
+        h2 {
+            margin-top: 0;
+            color: #333333;
+            font-size: 16px;
+            font-weight: bold;
+            text-align: left;
+        }
+
+        h3 {
+            margin-top: 0;
+            color: #333333;
+            font-size: 14px;
+            font-weight: bold;
+            text-align: left;
+        }
+
+        td, th {
+            font-size: 16px;
+        }
+
+        p, ul, ol, blockquote {
+            margin: .4em 0 1.1875em;
+            font-size: 16px;
+            line-height: 1.625;
+        }
+
+            p.sub {
+                font-size: 13px;
+            }
+        /* Utilities ------------------------------ */
+
+        .align-right {
+            text-align: right;
+        }
+
+        .align-left {
+            text-align: left;
+        }
+
+        .align-center {
+            text-align: center;
+        }
+        /* Buttons ------------------------------ */
+
+        @media only screen and (max-width: 500px) {
+            .button {
+                width: 100% !important;
+                text-align: center !important;
+            }
+        }
+        /* Attribute list ------------------------------ */
+
+        .attributes {
+            margin: 0 0 21px;
+        }
+
+        .attributes_content {
+            background-color: #F4F4F7;
+            padding: 16px;
+        }
+
+        .attributes_item {
+            padding: 0;
+        }
+        /* Related Items ------------------------------ */
+
+        .related {
+            width: 100%;
+            margin: 0;
+            padding: 25px 0 0 0;
+            -premailer-width: 100%;
+            -premailer-cellpadding: 0;
+            -premailer-cellspacing: 0;
+        }
+
+        .related_item {
+            padding: 10px 0;
+            color: #CBCCCF;
+            font-size: 15px;
+            line-height: 18px;
+        }
+
+        .related_item-title {
+            display: block;
+            margin: .5em 0 0;
+        }
+
+        .related_item-thumb {
+            display: block;
+            padding-bottom: 10px;
+        }
+
+        .related_heading {
+            border-top: 1px solid #CBCCCF;
+            text-align: center;
+            padding: 25px 0 10px;
+        }
+        /* Discount Code ------------------------------ */
+
+        .discount {
+            width: 100%;
+            margin: 0;
+            padding: 24px;
+            -premailer-width: 100%;
+            -premailer-cellpadding: 0;
+            -premailer-cellspacing: 0;
+            background-color: #F4F4F7;
+            border: 2px dashed #CBCCCF;
+        }
+
+        .discount_heading {
+            text-align: center;
+        }
+
+        .discount_body {
+            text-align: center;
+            font-size: 15px;
+        }
+        /* Social Icons ------------------------------ */
+
+        .social {
+            width: auto;
+        }
+
+            .social td {
+                padding: 0;
+                width: auto;
+            }
+
+        .social_icon {
+            height: 20px;
+            margin: 0 8px 10px 8px;
+            padding: 0;
+        }
+        /* Data table ------------------------------ */
+
+        .purchase {
+            width: 100%;
+            margin: 0;
+            padding: 35px 0;
+            -premailer-width: 100%;
+            -premailer-cellpadding: 0;
+            -premailer-cellspacing: 0;
+        }
+
+        .purchase_content {
+            width: 100%;
+            margin: 0;
+            padding: 25px 0 0 0;
+            -premailer-width: 100%;
+            -premailer-cellpadding: 0;
+            -premailer-cellspacing: 0;
+        }
+
+        .purchase_item {
+            padding: 10px 0;
+            color: #51545E;
+            font-size: 15px;
+            line-height: 18px;
+        }
+
+        .purchase_heading {
+            padding-bottom: 8px;
+            border-bottom: 1px solid #EAEAEC;
+        }
+
+            .purchase_heading p {
+                margin: 0;
+                color: #85878E;
+                font-size: 12px;
+            }
+
+        .purchase_footer {
+            padding-top: 15px;
+            border-top: 1px solid #EAEAEC;
+        }
+
+        .purchase_total {
+            margin: 0;
+            text-align: right;
+            font-weight: bold;
+            color: #333333;
+        }
+
+        .purchase_total--label {
+            padding: 0 15px 0 0;
+        }
+
+        body {
+            background-color: #F4F4F7;
+            color: #51545E;
+        }
+
+        p {
+            color: #51545E;
+        }
+
+            p.sub {
+                color: #6B6E76;
+            }
+
+        .email-wrapper {
+            width: 100%;
+            margin: 0;
+            padding: 0;
+            -premailer-width: 100%;
+            -premailer-cellpadding: 0;
+            -premailer-cellspacing: 0;
+            background-color: #F4F4F7;
+        }
+
+        .email-content {
+            width: 100%;
+            margin: 0;
+            padding: 0;
+            -premailer-width: 100%;
+            -premailer-cellpadding: 0;
+            -premailer-cellspacing: 0;
+        }
+        /* Masthead ----------------------- */
+
+        .email-masthead {
+            padding: 25px 0;
+            text-align: center;
+        }
+
+        .email-masthead_logo {
+            width: 94px;
+        }
+
+        .email-masthead_name {
+            font-size: 16px; /*font-weight: bold; color: #A8AAAF;*/
+            text-decoration: none;
+            text-shadow: 0 1px 0 white;
+        }
+        /* Body ------------------------------ */
+
+        .email-body {
+            width: 100%;
+            margin: 0;
+            padding: 0;
+            -premailer-width: 100%;
+            -premailer-cellpadding: 0;
+            -premailer-cellspacing: 0;
+            background-color: #FFFFFF;
+        }
+
+        .email-body_inner {
+            width: 570px;
+            margin: 0 auto;
+            padding: 0;
+            -premailer-width: 570px;
+            -premailer-cellpadding: 0;
+            -premailer-cellspacing: 0;
+            background-color: #FFFFFF;
+        }
+
+        .email-footer {
+            width: 570px;
+            margin: 0 auto;
+            padding: 0;
+            -premailer-width: 570px;
+            -premailer-cellpadding: 0;
+            -premailer-cellspacing: 0;
+            text-align: center;
+        }
+
+            .email-footer p {
+                color: #6B6E76;
+            }
+
+        .body-action {
+            width: 100%;
+            margin: 30px auto;
+            padding: 0;
+            -premailer-width: 100%;
+            -premailer-cellpadding: 0;
+            -premailer-cellspacing: 0;
+            text-align: center;
+        }
+
+        .body-sub {
+            margin-top: 25px;
+            padding-top: 25px;
+            border-top: 1px solid #EAEAEC;
+        }
+
+        .content-cell {
+            padding: 35px;
+        }
+        /*Media Queries ------------------------------ */
+
+        @media screen and (max-width: 600px) {
+            .email-body_inner, .email-footer, .email-wrapper, .email-body {
+                width: 100% !important;
+                font-size: 8px !important;
+            }
+        }
+
+        @media screen and (max-with: 1140px) {
+            .email-body_inner, .email-footer, .email-wrapper, .email-body {
+                width: 50% !important;
+            }
+        }
+
+        @media (prefers-color-scheme: dark) {
+            body, .email-body, .email-body_inner, .email-content, .email-wrapper, .email-masthead, .email-footer {
+                background-color: #333333 !important;
+                color: #FFF !important;
+            }
+
+            p, ul, ol, blockquote, h1, h2, h3, span, .purchase_item {
+                color: #FFF !important;
+            }
+
+            .attributes_content, .discount {
+                background-color: #222 !important;
+            }
+
+            .email-masthead_name {
+                text-shadow: none !important;
+            }
+        }
+
+        :root {
+            color-scheme: light dark;
+            supported-color-schemes: light dark;
+        }
+    </style> <!--[if mso]> <style type="text/css"> .f-fallback { font-family: Arial, sans-serif; } </style> <![endif]-->
+</head>
+<body>
+    <table class="email-wrapper" style="width: 100%" cellpadding="0" cellspacing="0" role="presentation">
+        <tr>
+            <td align="center">
+                <table class="email-content" cellpadding="0" cellspacing="0" role="presentation">
+                    <tr>
+                        <td>
+                            <table class="email-footer" align="center" cellpadding="0" cellspacing="0" role="presentation">
+                                <tr>
+                                    <td class="content-cell" align="center" style="border:1px solid black">
+                                        <a href="{{LOGO_LINK}}" class="f-fallback email-masthead_name"> <img src="{{LOGO_LINK}}" alt="Logo" /><br />&nbsp;<br /><span style="color: blue">{{FIRMAMIZ}}</span><br />&nbsp;<br /> </a> {{ADRESSATIRI1}}<br />&nbsp;<br /> <a href="{{EMAIL}}" style="color: blue">{{EMAIL}}</a><br />
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr><td>&nbsp;</td></tr> <!-- Email Body -->
+                    <tr>
+                        <td class="email-body" cellpadding="0" cellspacing="0">
+                            <table class="email-body_inner" align="center" cellpadding="0" cellspacing="0" role="presentation">
+                                <!-- Body content -->
+                                <tr>
+                                    <td class="content-cell" style="border:1px solid black">
+                                        <div class="f-fallback">
+                                            <table style="width: 100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+                                                <tr>
+                                                    <td colspan="2" align="center">
+                                                        <span style='text-transform:uppercase; color: blue'>{{AY}} CARİ MUTABAKATI<br /></span>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="left" style="color:#000000"> SAYIN, </td>
+                                                    <td align="right" style="color:#000000"> Tarih:{{MAILTARIHI}} </td>
+                                                </tr>
+                                            </table><br> <h3>{{KARSI_FIRMA}}</h3> <p style="color:#000000"> Nezdimizdeki <b> {{KARSI_FIRMA_KODU}}</b> nolu <b>{{KARSI_FIRMA}}</b> hesabınız <b>{{TARIH}} </b> tarihi itibarı ile <b>{{PARA_BIRIMI}}</b> <b>{{BAKIYE}}</b> <b>{{BORC_ALACAK}} </b> bakiyesi vermektedir. <p style="color:#000000"> Hesabınızda mutabık olup, olmadığımızı aşağıdaki ekli bölümü imzalayarak bildirmenizi rica ederiz.</p> <p style="font-size:12px; color:#000000;"> * Hata ve Unutma Müstesnadır.<br> * Mutabakat veya itirazınızı 30 gün içinde bildirmediğiniz taktirde TTK'nın 94. maddesi uyarınca mutabık sayılacağınızı hatırlatırız.<br> * Bakiyede mutabık olmadığınız takdirde hesap dökümünüzün tarafımıza gönderilmesini rica ederiz. </p> <p style="color:#000000">Saygılarımızla <br></p> <p style="color:#000000"><b>{{FIRMAMIZ}} MUTABAKAT MEKTUBU</b></p> <p style="color:#000000"> Yukarıda tarafınızdan belirtilen <b>{{TARIH}}</b> tarihi itibarı ile <b>22,5</b> <b>TRY</b> <b>B</b> bakiyede mutabık olduğumuzu / olmadığımızı bildiririz. </p>
+                                            <!-- Action -->
+                                            <table class="body-action" align="center" style="width: 100%" cellpadding="0" cellspacing="0" role="presentation">
+                                                <tr>
+                                                    <td align="center">
+                                                        <!-- Border based button https://litmus.com/blog/a-guide-to-bulletproof-buttons-in-email-design -->
+                                                        <table style="width: 100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+                                                            <tr>
+                                                                <td align="left"> 
+                                                                <div> 
+                                                                    <!--[if mso]> 
+                                                                        <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{{ONAY_LINK}}" style="height:40px;v-text-anchor:middle;width:200px;" arcsize="8%" strokecolor="#20a259" fill="t">
+                                                                         <v:fill type="tile" src="""" color="#22BC66" />
+                                                                         <w:anchorlock/> <center style="color:#ffffff;font-family:sans-serif;font-size:13px;font-weight:bold;">Mutabıkız</center> 
+                                                                        </v:roundrect> 
+                                                                        <![endif]--> 
+                                                                    <a href="{{ONAY_LINK}}" style="background-color:#22BC66;border:1px solid #20a259;border-radius:3px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;mso-hide:all;">Mutabıkız</a>
+                                                                     </div> 
+                                                                </td>
+                                                                <td align="right"> 
+                                                                <div>
+                                                                     <!--[if mso]> 
+                                                                         <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="{{RET_LINK}}" style="height:40px;v-text-anchor:middle;width:200px;" arcsize="8%" strokecolor="#f93e0b" fill="t"> 
+                                                                         <v:fill type="tile" src="""" color="#FF6136" /> 
+                                                                         <w:anchorlock/> 
+                                                                         <center style="color:#ffffff;font-family:sans-serif;font-size:13px;font-weight:bold;">Mutabık Değiliz</center> 
+                                                                         </v:roundrect> 
+                                                                         <![endif]--> 
+                                                                    <a href="{{RET_LINK}}" style="background-color:#FF6136;border:1px solid #f93e0b;border-radius:3px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;mso-hide:all;">Mutabık Değiliz</a> 
+                                                                    </div> 
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr><td>&nbsp;</td></tr>
+                    <tr>
+                        <td>
+                            <table class="email-footer" align="center" cellpadding="0" cellspacing="0" role="presentation">
+                                <tr>
+                                    <td class="content-cell" align="center" style="border:1px solid black">
+                                        &copy;
+                                        <script>document.write(new Date().getFullYear())</script> Bu e-posta GETIR PERAKENDE LOJISTIK A.S. adına [SBO Proje Danışmanlık] tarafından SAP Business One ERP uygulamasından otomatik gönderilmektedir.
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

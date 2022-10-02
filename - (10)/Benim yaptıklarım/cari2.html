@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style type="text/css" rel="stylesheet" media="all">
+      /* Base ------------------------------ */
+      @import url("https://fonts.googleapis.com/css?family=Nunito+Sans:400,700&display=swap");
+      p {
+        font-family: "system-ui";
+      }
+      body {
+        width: 100% !important;
+        height: 100%;
+        -webkit-text-size-adjust: none;
+        display: flex;
+        flex:1;
+        flex-direction: column;
+        margin-top: 1.5%;
+      }
+
+      .presentation {
+        display: flex;
+        align-self: center;
+        flex-direction: column;
+        justify-content: center;
+        width: 100%;
+      }
+
+      .presentation .date {
+        display: flex;
+        justify-content: flex-end;
+        width: 100%;
+      }
+      .presentation .address {
+        display: flex;
+        justify-content: center;
+        align-self: center;
+        flex-direction: column;
+      }
+      .presentation .address p {
+        margin-top: -2%;
+      }
+
+      .presentation .tax {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+      }
+
+      .content {
+        flex:0.55;
+        margin-left: 7.5%;
+        margin-right: 7.5%;
+        width: 90%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+      }
+
+      .dealerSignature {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+      }
+      hr {
+        width: 95%;
+        border-width: 0.2px;
+      }
+    </style>
+</head>
+<body>
+    <div class="presentation">
+        <div class="date">
+            <p>{{DocumentDate}}</p>
+        </div>
+        <div class="address">
+            <div>
+                <p style="margin-top: 0">{{CompanyName}}</p>
+                <p>{{CompanyAddr}}</p>
+                <p>E-Mail: {{E_Mail}}</p>
+            </div>
+            <div class="tax">
+                <p>Vergi Dairesi: {{RevOffice}}</p>
+                <p style="margin-left: 30px;">VKN: {{TaxIdNum}}</p>
+            </div>
+        </div>
+    </div>
+    <hr>
+    <div class="content">
+        <div class="title">
+            <p><strong>{{CariAdi}}</strong></p>
+            <p><strong>MUHASEBE DEPARTMANI DİKKATİNE</strong></p>
+        </div>
+        <div class="description">
+            <p>
+                Nezdimizdeki {{CariKodu}} nolu {{CadiAdi}} hesabınız {{BitTarih}} tarihi itibarı ile {{Currency}} {{B/A}} gösterilmektedir
+                <br><br>
+                Hesabınızda mutabık olup, olmadığımızı aşağıdaki ekli bölümü imzalayarak bildirmenizi; mutabık değilseniz, bir
+                hesap sureti göndermenizi rica ederiz. Bu vesile ile işlerinizde başarılar diler, konuya göstereceğiniz hassasiyete
+                şimdiden teşekkür ederiz.
+            </p>
+        </div>
+        <div class="signature">
+            <p>
+                Saygılarımızla
+                <strong>{{CompanyName}}</strong>
+            </p>
+        </div>
+        <div class="ending">
+            <p>
+                Mutabakat Mektubu
+                <br>
+                Yukarıda tarafınızdan belirtilen {{BitTarih}} tarihi itibarı ile {{Bakiye}} {{Currency}} {{B/A}} bakiyede mutabık olduğumuzu /
+                olmadığımızı bildiririz.
+            </p>
+        </div>
+    </div>
+    <hr>
+    <div class="dealerSignature">
+        <p style="text-align: center">
+            <strong>
+                Mutabıkız
+                <br>
+                Cevaplayan Adı Soyadı
+                <br>
+                {{AdSoyad}}
+            </strong>
+        </p>
+        <p></p>
+        <p style="text-align: center">
+            <strong>
+                Mutabık Değiliz
+                <br>
+                Cevaplayan Adı Soyadı
+                <br>
+                {{AdSoyad}}
+            </strong>
+        </p>
+    </div>
+</body>
+</html>
