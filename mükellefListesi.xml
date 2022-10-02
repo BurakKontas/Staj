@@ -1,0 +1,2562 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<UserList>
+    <User>
+        <Identifier>67711226990</Identifier>
+        <Title>HASAN ERKİN ÖZEN</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-07-06T17:01:50</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@gmail.com</Name>
+                    <CreationTime>2020-07-06T17:01:50</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@ozenmedya.com.tr</Name>
+                    <CreationTime>2022-01-12T14:11:44</CreationTime>
+                    <DeletionTime>2022-01-18T13:46:21</DeletionTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>6400100224</Identifier>
+        <Title>OKYANUS MÜHENDİSLİK VE İNŞAAT ANONİM ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2017-01-01T11:32:44</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:defaultirsaliyepk@gmail.com</Name>
+                    <CreationTime>2021-07-01T00:48:57</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:okyanusmuhendislikpk@gmail.com</Name>
+                    <CreationTime>2017-01-01T11:32:44</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>7300382563</Identifier>
+        <Title>PİRANLAR OTOMOTİV İNŞ.SAN. VE TİC.LTD.ŞTİ.</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-01-02T13:52:21</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:2816defaultpk@luca.com.tr</Name>
+                    <CreationTime>2021-10-08T10:43:40</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@piranlarotomotiv.com.tr</Name>
+                    <CreationTime>2020-01-02T13:52:21</CreationTime>
+                    <DeletionTime>2021-01-25T17:09:06</DeletionTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:81551defaultpk@isnet.com</Name>
+                    <CreationTime>2021-01-25T17:09:06</CreationTime>
+                    <DeletionTime>2021-10-05T13:23:40</DeletionTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@piranlarotomotiv.com.tr</Name>
+                    <CreationTime>2021-10-05T14:43:08</CreationTime>
+                    <DeletionTime>2021-10-08T10:43:40</DeletionTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>59785042774</Identifier>
+        <Title>Düzgün Eczanesi</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-07-01T01:51:20</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@hotmail.com</Name>
+                    <CreationTime>2021-07-01T01:51:21</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>6080168777</Identifier>
+        <Title>KOCAELİ İZMİT İLKOKUL LEYLA ATAKAN</Title>
+        <Type>KAMU</Type>
+        <FirstCreationTime>2021-03-31T09:30:10</FirstCreationTime>
+        <AccountType>ENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@muhasebat.gov.tr</Name>
+                    <CreationTime>2021-03-31T09:30:10</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>67663047964</Identifier>
+        <Title>HÜSEYİN KEŞCİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2016-04-11T12:06:38</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@adatuna.com</Name>
+                    <CreationTime>2019-03-12T17:13:13</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@adatuna.com.tr</Name>
+                    <CreationTime>2016-04-11T12:12:42</CreationTime>
+                    <DeletionTime>2019-03-12T17:13:13</DeletionTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@adatuna.com</Name>
+                    <CreationTime>2019-03-12T17:13:13</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>0690333096</Identifier>
+        <Title>ANKARA HİDROSER HİDROLİKPNÖM MAK ELEM .SAN.VE TİC.LTD.ŞTİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2016-12-27T16:45:53</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@hidroser.com.tr</Name>
+                    <CreationTime>2016-12-27T16:45:53</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:ankarapk@edmbilisim.com</Name>
+                    <CreationTime>2020-07-09T10:18:36</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>56254196402</Identifier>
+        <Title>RECEP CESUR</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2019-01-01T00:45:32</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@cesurgida.com.tr</Name>
+                    <CreationTime>2019-01-01T00:45:33</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:eirsaliyepk@cesurgida.com.tr</Name>
+                    <CreationTime>2020-01-06T16:44:48</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>71221122772</Identifier>
+        <Title>ŞÜKRÜ İNANÇ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-06-18T12:39:45</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:cizrekeskinoglupk@hotmail.com</Name>
+                    <CreationTime>2022-06-18T12:39:45</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>99952192130</Identifier>
+        <Title>YRYSGUL ISAEVA</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-07-01T02:10:52</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@hotmail.com</Name>
+                    <CreationTime>2022-07-01T02:10:52</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>5700080463</Identifier>
+        <Title>KOÇ İNŞAAT TURİZM SANAYİ TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-07-01T02:13:48</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@kocinsaat.com</Name>
+                    <CreationTime>2022-07-01T02:13:48</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>3360157665</Identifier>
+        <Title>Assystem Envy Enerji ve Çevre Yatırımları Anonim Şirketi</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2014-01-01T09:47:05</FirstCreationTime>
+        <AccountType>GIBPORTAL</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@envy.com.tr</Name>
+                    <CreationTime>2014-01-01T09:47:05</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>3420329029</Identifier>
+        <Title>ERDAĞI PETROL SANAYİ TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2018-01-02T12:26:20</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@erdagpetrol.com</Name>
+                    <CreationTime>2020-01-04T16:56:55</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@hotmail.com</Name>
+                    <CreationTime>2018-01-02T12:26:20</CreationTime>
+                    <DeletionTime>2020-01-04T16:56:55</DeletionTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@erdagpetrol.com</Name>
+                    <CreationTime>2020-01-04T16:56:55</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>1490331961</Identifier>
+        <Title>AFYONKARAHİSAR SANDIKLI İLKOKUL BAŞTEPE</Title>
+        <Type>KAMU</Type>
+        <FirstCreationTime>2021-04-21T10:00:00</FirstCreationTime>
+        <AccountType>ENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@muhasebat.gov.tr</Name>
+                    <CreationTime>2021-04-21T10:00:00</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>0011172209</Identifier>
+        <Title>ABELLA TEKSTİL İNŞ. OTO. SAN. VE TİC. LTD. ŞTİ.</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2019-10-23T12:59:15</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@abellaperde.com</Name>
+                    <CreationTime>2019-10-23T12:59:15</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>29854996710</Identifier>
+        <Title>TARIK SOYSAL</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-09-28T16:46:11</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@tariksoysal.com</Name>
+                    <CreationTime>2021-09-28T16:46:11</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>4780541799</Identifier>
+        <Title>İNTAYA &amp; EYG &amp; İNTES ADİ ORTAKLIĞI</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2019-01-01T11:17:14</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:intayaeygpk@intayaintes.com.tr</Name>
+                    <CreationTime>2020-10-20T13:08:36</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@intaya.com.tr</Name>
+                    <CreationTime>2019-03-01T11:59:54</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@intaya.com.tr</Name>
+                    <CreationTime>2019-01-01T11:17:21</CreationTime>
+                    <DeletionTime>2019-03-01T11:03:18</DeletionTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>69400046100</Identifier>
+        <Title>ALKAN ALTUN</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-06-28T00:03:57</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@erenofis.com</Name>
+                    <CreationTime>2022-06-28T00:03:57</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>16313394088</Identifier>
+        <Title>ÇAĞLAR ÇEVİK</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-06-22T20:27:01</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@caglarcevik.com</Name>
+                    <CreationTime>2022-06-22T20:27:02</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>18362270368</Identifier>
+        <Title>MUSTAFA  SEKİZCAN</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-01-14T17:29:51</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@mustafasekizcan.com</Name>
+                    <CreationTime>2021-05-27T14:16:42</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@hotmail.com</Name>
+                    <CreationTime>2021-01-14T17:29:51</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>29966336138</Identifier>
+        <Title>YUSUF BEŞTAŞ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2019-03-28T14:04:20</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@uretimmatbaa.com</Name>
+                    <CreationTime>2019-03-28T14:04:40</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>3320429131</Identifier>
+        <Title>ELİTE YAPI İNŞAAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-07-01T02:02:51</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@hotmail.com</Name>
+                    <CreationTime>2022-07-01T02:02:51</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>1271011415</Identifier>
+        <Title>B AGRO GIDA SANAYİ TİCARET ANONİM ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-01-01T00:02:23</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:bagrogidapk@bayramogluyemun.com</Name>
+                    <CreationTime>2022-01-01T00:02:23</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:bagrogidapk@bayramogluyemun.com</Name>
+                    <CreationTime>2022-01-01T00:02:23</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>4070726636</Identifier>
+        <Title>MARDİN ÖMERLİ İKLOKULU GÖLLÜ</Title>
+        <Type>KAMU</Type>
+        <FirstCreationTime>2021-04-21T10:00:00</FirstCreationTime>
+        <AccountType>ENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@muhasebat.gov.tr</Name>
+                    <CreationTime>2021-04-21T10:00:00</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>10592166954</Identifier>
+        <Title>EKİN KARATAŞ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-07-09T14:36:47</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:1235defaultpk@luca.com.tr</Name>
+                    <CreationTime>2021-07-09T14:36:47</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>6440738080</Identifier>
+        <Title>OPAL DEMİR ÇEL.İNŞ.SAN VE DIŞ TİC.A.Ş.</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-01-18T12:43:49</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:99972defaultpk@isnet.com</Name>
+                    <CreationTime>2022-01-18T12:43:49</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:99972defaultpk@isnet.com</Name>
+                    <CreationTime>2022-01-18T12:43:49</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>1781527038</Identifier>
+        <Title>BK HOME EV TEKSTİLİ VE HALICILIK SANAYİ VE DIŞ TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-08-20T14:56:52</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@bkhomeevtekstili.com</Name>
+                    <CreationTime>2021-08-20T14:56:52</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>3961208727</Identifier>
+        <Title>GİRBEL YATIRIM İNŞAAT TAAHHÜT TURİZM SANAYİ VE TİCARET ANONİM ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-01-01T00:32:57</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@hotmail.com</Name>
+                    <CreationTime>2022-01-01T00:32:57</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>17792384416</Identifier>
+        <Title>ONUR KÖK</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-04-11T18:34:19</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@onurkok.com</Name>
+                    <CreationTime>2022-04-11T18:34:19</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>18088019432</Identifier>
+        <Title>MEMET GONCA</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-02-28T17:04:03</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@memetgonca.com.tr</Name>
+                    <CreationTime>2021-01-18T21:13:01</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@memetgonca.com</Name>
+                    <CreationTime>2020-02-28T17:05:02</CreationTime>
+                    <DeletionTime>2021-06-03T15:13:39</DeletionTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>6640408622</Identifier>
+        <Title>ÖZAY BİLGİ TEKNOLOJİLERİ SANAYİ VE TİC. LTD. ŞTİ.</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2014-10-08T12:15:30</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@ozay.net.tr</Name>
+                    <CreationTime>2021-07-08T16:05:11</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@ozaybilgiteknolojileri.com</Name>
+                    <CreationTime>2021-05-07T13:37:56</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@ozay.net.tr</Name>
+                    <CreationTime>2014-10-08T12:15:30</CreationTime>
+                    <DeletionTime>2016-04-12T14:34:16</DeletionTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:efinanspk@ozay.net.tr</Name>
+                    <CreationTime>2015-11-11T15:53:45</CreationTime>
+                    <DeletionTime>2017-10-10T14:45:08</DeletionTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@ozay.net.tr</Name>
+                    <CreationTime>2017-10-04T11:21:10</CreationTime>
+                    <DeletionTime>2021-07-08T15:22:05</DeletionTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>3950957155</Identifier>
+        <Title>GEZE EĞİTİM HİZMETLERİ TAŞIMACILIK İNŞAAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-05-16T21:28:48</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@msn.com</Name>
+                    <CreationTime>2022-05-16T21:28:48</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>4931225759</Identifier>
+        <Title>KALKAN MOTOR SANAYİ VE TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-01-06T14:54:06</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:kalkanpk@kalkanmotor.com.tr</Name>
+                    <CreationTime>2022-01-06T14:54:06</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>2910836450</Identifier>
+        <Title>DENİS TURİZM TAŞIMACILIK TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-01-01T00:13:53</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@argunaydin.com</Name>
+                    <CreationTime>2020-01-01T00:13:53</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>1780733500</Identifier>
+        <Title>BİRVİZYON İNŞAAT MOBİLYA OTO K.NAK.PAZ.İTH.İH.S.TİC.LTD.ŞTİ.</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-07-07T13:26:29</FirstCreationTime>
+        <AccountType>GIBPORTAL</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@gmail.com</Name>
+                    <CreationTime>2020-07-07T13:26:29</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>44641435494</Identifier>
+        <Title>İSMAİL KAHVECİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-07-01T02:12:58</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:111275defaultpk@isnet.com</Name>
+                    <CreationTime>2022-07-01T02:12:58</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>0890410078</Identifier>
+        <Title>ASLAN BRANDA REKLAM İNŞAAT TARIM HAYVANCILIK SANAYİ VE TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-07-02T17:00:58</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@aslanbranda.com</Name>
+                    <CreationTime>2020-07-02T17:00:58</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>6270404121</Identifier>
+        <Title>MYB RÖNESANS SAĞLIK HİZMETLERİ İÇ VE DIŞ TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2019-01-02T13:57:56</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@mybronesans.com.tr</Name>
+                    <CreationTime>2019-01-02T13:58:15</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>4730340607</Identifier>
+        <Title>İLMUS TEKER VE YAPI MLZ.HIRD.MADENC.SAN.VE TİC.LTD.ŞTİ.</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-04-19T13:45:34</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@ilmusteker.com.tr</Name>
+                    <CreationTime>2021-04-19T13:45:34</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>8330532428</Identifier>
+        <Title>Tedav Tıbbi Ürünler Sanayi ve Ticaret Ltd. Şti.</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-01-11T09:26:01</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@tedavinternational.com</Name>
+                    <CreationTime>2021-01-11T09:26:01</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@tedavinternational.com</Name>
+                    <CreationTime>2021-01-11T09:26:01</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>12109581434</Identifier>
+        <Title>BARIŞ ŞİMŞEK</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-05-18T15:16:38</FirstCreationTime>
+        <AccountType>GIBPORTAL</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@gmail.com</Name>
+                    <CreationTime>2022-02-16T17:47:47</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:noyediman_pk@netkasam.com</Name>
+                    <CreationTime>2021-05-18T15:16:38</CreationTime>
+                    <DeletionTime>2022-02-16T14:45:26</DeletionTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>12547699340</Identifier>
+        <Title>CEMRE KARAKAYA</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-12-17T15:20:14</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@gmail.com</Name>
+                    <CreationTime>2021-12-17T15:20:14</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>48484900164</Identifier>
+        <Title>ADEM RAMAZAN</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-01-12T10:32:28</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@ademramazan.com.tr</Name>
+                    <CreationTime>2022-01-12T10:32:28</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>7340610231</Identifier>
+        <Title>REGLAN TEKSTİL TURİZM SAN.TİC.LTD.ŞTİ.</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2016-01-04T17:42:29</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:defaultirsaliyepk@reglantekstil.com</Name>
+                    <CreationTime>2021-06-03T09:49:34</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@reglantekstil.com</Name>
+                    <CreationTime>2016-01-04T17:42:29</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@reglantekstil.com</Name>
+                    <CreationTime>2016-01-04T17:42:29</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>0800928073</Identifier>
+        <Title>ARSELYA GIDA RESTORAN REKLAMCILIK ORGANİZASYON TURİZM SANAYİ VE TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-08-04T17:22:21</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@naturgurme.com.tr</Name>
+                    <CreationTime>2021-08-04T17:22:21</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>0550492036</Identifier>
+        <Title>ALM GERİ DÖNÜŞÜM MERKEZİ SAN. TİC. LTD. ŞTİ.</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-01-01T00:02:47</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@alm.tc</Name>
+                    <CreationTime>2020-01-01T00:02:47</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@alm.tc</Name>
+                    <CreationTime>2020-01-01T00:02:47</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>48697301390</Identifier>
+        <Title>BÜFE KANTİN KAFETERYA VE YEMEKHANE İŞLETMELERİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-11-03T12:39:21</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@bariserbak.com</Name>
+                    <CreationTime>2021-11-03T12:39:21</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>6240292614</Identifier>
+        <Title>ERZURUM HORASAN İLKOKUL MURATBAĞI</Title>
+        <Type>KAMU</Type>
+        <FirstCreationTime>2021-03-31T09:30:10</FirstCreationTime>
+        <AccountType>ENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@muhasebat.gov.tr</Name>
+                    <CreationTime>2021-03-31T09:30:10</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>11109124672</Identifier>
+        <Title>RÜZGAR KAPLAN</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-06-21T14:03:21</FirstCreationTime>
+        <AccountType>GIBPORTAL</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@gmail.com</Name>
+                    <CreationTime>2021-09-17T16:47:12</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@gmail.com</Name>
+                    <CreationTime>2021-06-21T14:03:21</CreationTime>
+                    <DeletionTime>2021-09-17T15:51:00</DeletionTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>9240903829</Identifier>
+        <Title>VERA SANDALYE SANAYİ VE TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-07-10T12:21:38</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:410defaultpk@luca.com.tr</Name>
+                    <CreationTime>2021-07-10T12:21:38</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>3580546237</Identifier>
+        <Title>ERGÜN MEŞRUBAT AMBALAJ TİC.LTD.ŞTİ.</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-06-24T18:04:29</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@outlook.com</Name>
+                    <CreationTime>2022-06-24T18:04:29</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>1190051285</Identifier>
+        <Title>AYGEM ELEKTRİK MAKİNA SANAYİ VE TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-01-01T00:35:43</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@aygem.com</Name>
+                    <CreationTime>2020-01-01T00:35:43</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:eirsaliyepk@aygem.com</Name>
+                    <CreationTime>2020-07-02T12:00:46</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>7291071320</Identifier>
+        <Title>LAXMI INTERIORS TASARIM VE DEKORASYON TİCARET ANONİM ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-12-09T10:47:22</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@laxmiinteriors.com</Name>
+                    <CreationTime>2021-10-27T09:33:12</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@dogusvana.com.tr</Name>
+                    <CreationTime>2021-10-26T18:35:03</CreationTime>
+                    <DeletionTime>2021-10-27T09:33:12</DeletionTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@pinarhaciraifoglu.com</Name>
+                    <CreationTime>2020-12-09T10:47:22</CreationTime>
+                    <DeletionTime>2021-10-26T17:18:12</DeletionTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@pinarhaciraifoglu.com</Name>
+                    <CreationTime>2021-10-27T09:35:13</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@pinarhaciraifoglu.com</Name>
+                    <CreationTime>2020-12-09T10:47:22</CreationTime>
+                    <DeletionTime>2021-10-26T16:14:12</DeletionTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>7170397290</Identifier>
+        <Title>ÖZYALÇIN ULUSLARARASI NAKLİYAT İNŞAAT TARIM PETROL OTOMOTİV KUYUMCULUK SANAYİ VE TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-06-27T14:44:18</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@ozyalcin.com</Name>
+                    <CreationTime>2022-06-27T14:44:18</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>7501001397</Identifier>
+        <Title>SARIKEÇİLİ TARIM SANAYİ VE TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-09-09T15:22:22</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@hotmail.com</Name>
+                    <CreationTime>2021-09-09T15:22:22</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:irsaliyepk@hotmail.com</Name>
+                    <CreationTime>2021-09-09T15:22:22</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>18914626636</Identifier>
+        <Title>SONER ÖZDERE</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2019-01-04T15:13:14</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:ozmetalpk@edmbilisim.com</Name>
+                    <CreationTime>2019-01-04T15:13:14</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:ozmetalpk@edmbilisim.com</Name>
+                    <CreationTime>2019-01-04T15:13:14</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>51883615546</Identifier>
+        <Title>BURAK ÇELİK</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-01-28T11:46:44</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@burakcelik.com</Name>
+                    <CreationTime>2022-01-28T11:46:44</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>3000559068</Identifier>
+        <Title>DİNÇLİ TEKSTİL KİMYEVİ MADDELER SANAYİ TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-09-07T18:00:36</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@dinclitekstilkimyevi.com</Name>
+                    <CreationTime>2021-09-07T18:00:36</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>4831034049</Identifier>
+        <Title>İZCİ PLASTİK METAL KALIP İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-09-14T14:08:09</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:2994560000pk@izcimetal.com</Name>
+                    <CreationTime>2020-09-14T14:08:09</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:2994560000pk@izcimetal.com</Name>
+                    <CreationTime>2020-09-14T14:08:09</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>0160008786</Identifier>
+        <Title>Kardeş Mühendislik Müşavirlik İnş. ve Tic. Ltd. Şti.</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2016-01-02T08:49:21</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@kardesmuhendislik.com.tr</Name>
+                    <CreationTime>2018-01-02T11:20:49</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@superonline.com</Name>
+                    <CreationTime>2016-01-02T08:49:21</CreationTime>
+                    <DeletionTime>2018-01-02T11:20:49</DeletionTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>15268804048</Identifier>
+        <Title>GÜRDEMİR MAKİNA</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-02-05T17:54:00</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:2107380000pk1@gmail.com</Name>
+                    <CreationTime>2020-02-05T17:54:00</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>25963493102</Identifier>
+        <Title>SAHRA GIDA MURAT ÇUBUKÇUOĞLU</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-07-29T09:25:37</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:sahrapk@edmbilisim.com</Name>
+                    <CreationTime>2020-07-29T09:25:37</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>3960088548</Identifier>
+        <Title>Glm Mühendislik Elektrik Sistemleri İthalat İhracat Sanayi ve Ticaret Anonim Şirketi</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2013-11-27T13:59:59</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@glm.com.tr</Name>
+                    <CreationTime>2015-04-02T09:23:33</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@glm.com.tr</Name>
+                    <CreationTime>2013-11-27T13:59:59</CreationTime>
+                    <DeletionTime>2015-04-02T09:23:33</DeletionTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>28567568276</Identifier>
+        <Title>HÜSEYİN BAL</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-07-16T23:12:19</FirstCreationTime>
+        <AccountType>GIBPORTAL</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@gmail.com</Name>
+                    <CreationTime>2020-07-16T23:12:19</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>0600707202</Identifier>
+        <Title>ALTAYLAR TEST ANALİZ VALİDASYON AMBALAJ VE SANAYİ TİCARET ANONİM ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-08-10T09:36:37</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:3724880000pk@altaylarvalidasyon.com</Name>
+                    <CreationTime>2021-08-10T09:36:37</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>18521550782</Identifier>
+        <Title>HAKAN TEMİZLİK ÜRÜNLERİ VE PERSONEL TAŞIMACILIĞI - HAKAN SUBAŞI</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-04-15T12:49:27</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@hotamil.com</Name>
+                    <CreationTime>2022-04-15T12:49:27</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>0011186860</Identifier>
+        <Title>740 İNŞAAT TAAHHÜT VE TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-07-01T19:13:36</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@740insaattaahhut.com</Name>
+                    <CreationTime>2022-07-01T19:13:36</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>4580450170</Identifier>
+        <Title>HARRANOVASI TARIM GIDA HAYVANCILIK PETROL NAKLİYE İNŞAAT TEMİZLİK SANAYİ VE DIŞ TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-07-02T12:30:07</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:harranovasipk@hotmail.com</Name>
+                    <CreationTime>2020-07-02T12:30:07</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@hotmail.com</Name>
+                    <CreationTime>2022-01-18T15:52:50</CreationTime>
+                    <DeletionTime>2022-03-02T16:09:12</DeletionTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@hotmail.com</Name>
+                    <CreationTime>2021-01-14T17:07:51</CreationTime>
+                    <DeletionTime>2021-01-28T17:43:34</DeletionTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:harranovasipk@hotmail.com</Name>
+                    <CreationTime>2020-07-02T12:30:07</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:irsaliyepk@hotmail.com</Name>
+                    <CreationTime>2022-01-18T15:52:49</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:irsaliyepk@hotmail.com</Name>
+                    <CreationTime>2021-01-14T17:07:51</CreationTime>
+                    <DeletionTime>2021-01-28T17:43:34</DeletionTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>9840004690</Identifier>
+        <Title>YUMAK ALÜMİNYUM SAN.TİC.LTD.ŞTİ.</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2013-11-12T10:27:45</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@yumakalumi.com</Name>
+                    <CreationTime>2017-07-07T16:01:12</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@gmail.com</Name>
+                    <CreationTime>2013-11-12T10:27:45</CreationTime>
+                    <DeletionTime>2017-07-07T16:01:12</DeletionTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:yumakpk@edmbilisim.com</Name>
+                    <CreationTime>2020-07-02T16:29:23</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>1781527012</Identifier>
+        <Title>BLUELİFE YACHTİNG DENİZCİLİK TURİZM SANAYİ VE TİCARET ANONİM ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-01-18T20:06:43</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:bluelifepk@bluelife.com.tr</Name>
+                    <CreationTime>2022-01-18T20:06:43</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>44755791608</Identifier>
+        <Title>ALPER DEMİR</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-02-14T17:38:16</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@alperdemir.com</Name>
+                    <CreationTime>2022-02-18T17:15:18</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@gurbuzmuhasebe.com</Name>
+                    <CreationTime>2022-02-14T17:38:16</CreationTime>
+                    <DeletionTime>2022-02-18T17:15:18</DeletionTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>1421297423</Identifier>
+        <Title>BARUM AUTO OTOMOTİV PETROL İNŞAAT GIDA KUYUMCULUK İTHALAT İHRACAT SANAYİ VE TİCARET L</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-01-01T03:26:22</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:barumpk@edmbilisim.com</Name>
+                    <CreationTime>2022-02-18T14:09:55</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@hotmail.com</Name>
+                    <CreationTime>2022-01-01T03:26:22</CreationTime>
+                    <DeletionTime>2022-02-18T14:09:55</DeletionTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>46330017554</Identifier>
+        <Title>YAVUZ YAZICI</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-04-01T21:00:48</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@yavuzyazici.com</Name>
+                    <CreationTime>2022-04-01T21:00:48</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>6141512934</Identifier>
+        <Title>MELDİVEN İŞ ELDİVENLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-12-14T15:01:10</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:3758750000pk@meldiven.com.tr</Name>
+                    <CreationTime>2021-12-14T15:01:10</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:3758750000pk@meldiven.com.tr</Name>
+                    <CreationTime>2021-12-14T15:01:10</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>3021044035</Identifier>
+        <Title>ERASTAR BİLGİ TEKNOLOJİLERİ TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-12-02T14:37:49</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@erastarinc.com</Name>
+                    <CreationTime>2021-11-25T15:01:20</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@dobrabilisim.com</Name>
+                    <CreationTime>2020-12-02T14:37:49</CreationTime>
+                    <DeletionTime>2021-11-25T14:05:52</DeletionTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@dobrabilisim.com</Name>
+                    <CreationTime>2021-11-25T14:26:39</CreationTime>
+                    <DeletionTime>2021-11-25T15:01:20</DeletionTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@dobrabilisim.com</Name>
+                    <CreationTime>2020-12-02T14:37:49</CreationTime>
+                    <DeletionTime>2021-11-25T13:41:15</DeletionTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>39413194914</Identifier>
+        <Title>ÖMER BAĞRIYANIK</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-06-14T10:07:52</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@omerbagriyanik.com</Name>
+                    <CreationTime>2022-06-14T10:07:52</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>1601483869</Identifier>
+        <Title>GO SHARİNG MOBİLİTE HİZMETLERİ VE TİC A.Ş.</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-09-21T17:40:12</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@go-sharing.com</Name>
+                    <CreationTime>2021-09-21T17:40:12</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@gosharingmobilite.com</Name>
+                    <CreationTime>2021-11-30T16:12:13</CreationTime>
+                    <DeletionTime>2021-12-02T12:00:17</DeletionTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>24178567448</Identifier>
+        <Title>MURAT ZUR</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-06-28T18:15:11</FirstCreationTime>
+        <AccountType>GIBPORTAL</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@hotmail.com</Name>
+                    <CreationTime>2022-06-28T18:15:11</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>4850554789</Identifier>
+        <Title>İST.GÜMRÜK MUHAFAZA KAÇAKCILIK VE İSTİHBARAT MÜDÜRLÜĞÜ</Title>
+        <Type>KAMU</Type>
+        <FirstCreationTime>2019-09-18T11:20:00</FirstCreationTime>
+        <AccountType>ENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@muhasebat.gov.tr</Name>
+                    <CreationTime>2019-09-18T11:20:00</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>8871097425</Identifier>
+        <Title>ULTOR TEKNOLOJİ VE DANIŞMANLIK HİZMETLERİ SANAYİ TİCARET ANONİM ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-03-10T18:53:16</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@ultortech.com</Name>
+                    <CreationTime>2020-03-10T18:53:16</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>10042040056</Identifier>
+        <Title>GAMZE YAMAN</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2019-05-07T11:37:39</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@yamandagit.com</Name>
+                    <CreationTime>2019-05-07T11:37:39</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>11335988604</Identifier>
+        <Title>Hasan Gündoğmuş</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-07-08T18:00:23</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@hasangundogmus.com</Name>
+                    <CreationTime>2021-07-08T18:00:23</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@hasangundogmus.com.tr</Name>
+                    <CreationTime>2022-07-01T02:43:08</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>25391052490</Identifier>
+        <Title>KAMİL NURİ GİZER</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-03-31T13:11:39</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:vizyonpk@edmbilisim.com</Name>
+                    <CreationTime>2021-03-31T13:11:39</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>73642061548</Identifier>
+        <Title>MURAT KURUM</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-01-06T23:11:15</FirstCreationTime>
+        <AccountType>GIBPORTAL</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@hotmail.com</Name>
+                    <CreationTime>2022-03-15T18:16:02</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@muratkurum.com</Name>
+                    <CreationTime>2020-01-06T23:11:15</CreationTime>
+                    <DeletionTime>2022-03-15T15:21:49</DeletionTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>19151532018</Identifier>
+        <Title>Okyanus Bilgisayar-Faruk Bademoğlu</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-07-10T17:38:20</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:okyanuspk@edmbilisim.com</Name>
+                    <CreationTime>2020-07-10T17:38:20</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>20774112532</Identifier>
+        <Title>DERYA AKPINAR TERZİOĞLU</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-10-30T13:47:22</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:Deryapk@yahoo.com</Name>
+                    <CreationTime>2020-10-30T13:47:34</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@teknodiscovery.com</Name>
+                    <CreationTime>2022-05-11T20:24:07</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>4990407778</Identifier>
+        <Title>KAR-DENİZ MAD.NAK.HAFR.PET.VE OR.ÜR.İNŞ.MALZ.SAN.TİC.LTD.ŞTİ.</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-07-01T18:17:45</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:kardeniz_pk@vero.com.tr</Name>
+                    <CreationTime>2021-01-31T00:00:07</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@vero.com.tr</Name>
+                    <CreationTime>2020-07-02T12:14:10</CreationTime>
+                    <DeletionTime>2021-02-27T14:28:33</DeletionTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@vero.com.tr</Name>
+                    <CreationTime>2020-07-01T18:17:45</CreationTime>
+                    <DeletionTime>2020-07-02T12:14:10</DeletionTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:kardeniz_pk@vero.com.tr</Name>
+                    <CreationTime>2021-01-31T00:00:07</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultirsaliyepk@vero.com.tr</Name>
+                    <CreationTime>2020-07-02T12:16:02</CreationTime>
+                    <DeletionTime>2021-02-27T14:28:59</DeletionTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>6231548339</Identifier>
+        <Title>MRCN PROJE MÜHENDİSLİK DANIŞMANLIK VE TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-04-16T16:54:24</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:85594defaultpk@isnet.com</Name>
+                    <CreationTime>2021-04-16T16:54:24</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>47428530788</Identifier>
+        <Title>MEVLÜT DURMAZ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-06-10T20:11:45</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:mevlutpk@edmbilisim.com</Name>
+                    <CreationTime>2022-06-10T20:11:45</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>50092144274</Identifier>
+        <Title>Dilara Çırdaklı</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-06-22T15:40:50</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@hotmail.com</Name>
+                    <CreationTime>2021-06-22T15:40:50</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>6121293064</Identifier>
+        <Title>MARMARA DGTM İTHALAT İHRACAT TURİZM SANAYİ TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-08-17T13:49:59</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@marmaradagitim.com</Name>
+                    <CreationTime>2020-08-17T13:49:59</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:eirsaliyepk@marmaradagitim.com</Name>
+                    <CreationTime>2022-07-01T02:24:19</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>3101330570</Identifier>
+        <Title>DORSET DIŞ TİCARET ANONİM ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-04-26T19:48:46</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:7880defaultpk@luca.com.tr</Name>
+                    <CreationTime>2022-04-26T19:48:46</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>36124210582</Identifier>
+        <Title>BAYRAM BENZER</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-06-29T16:19:32</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@muratgiyim.com.tr</Name>
+                    <CreationTime>2020-06-29T16:19:32</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>3020960745</Identifier>
+        <Title>DKS TEKNOLOJİ ANONİM ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-01-23T17:00:24</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@dks.com.tr</Name>
+                    <CreationTime>2020-01-23T17:00:24</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>30997135614</Identifier>
+        <Title>Özyıldız Eczanesi</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-07-01T00:28:42</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@gmail.com</Name>
+                    <CreationTime>2021-07-01T00:28:42</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>9650043832</Identifier>
+        <Title>YILDIZ YEMEK SAN.VE TİC.LTD.ŞTİ.</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2015-12-31T12:13:11</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@yildizyemek.com</Name>
+                    <CreationTime>2015-12-31T12:13:12</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:yildizpk@edmbilisim.com</Name>
+                    <CreationTime>2020-07-01T15:11:17</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>1430687369</Identifier>
+        <Title>BOSİM BORU VE SAÇ İŞLEME MERKEZİ ANONİM ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-01-01T01:05:16</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@bosim.com</Name>
+                    <CreationTime>2022-01-01T01:05:16</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>7830118617</Identifier>
+        <Title>SUNAS ULUSLARARASI NAKLİYAT TURİZM SANAYİ VE TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2017-01-09T14:55:07</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:sunaspk@edmbilisim.com</Name>
+                    <CreationTime>2017-06-20T10:48:27</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@sunas.com.tr</Name>
+                    <CreationTime>2017-01-09T14:55:07</CreationTime>
+                    <DeletionTime>2017-06-20T10:48:27</DeletionTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:sunaspk@edmbilisim.com</Name>
+                    <CreationTime>2017-06-20T10:48:27</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>0910958756</Identifier>
+        <Title>ASMİST SİSLEME VE İKLİMLENDİRME SİSTEMLERİ DANIŞMANLIK HİZMETLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-01-11T08:58:00</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:asmistpk@edmbilisim.com</Name>
+                    <CreationTime>2022-01-11T08:58:00</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>16166435372</Identifier>
+        <Title>MERT DEĞERLİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-10-01T13:37:51</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@gmail.com</Name>
+                    <CreationTime>2020-10-01T13:37:51</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>20191987782</Identifier>
+        <Title>İBRAHİM GEMİCİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-12-10T13:10:28</FirstCreationTime>
+        <AccountType>GIBPORTAL</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@gmail.com</Name>
+                    <CreationTime>2021-10-27T12:37:10</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@gmail.com</Name>
+                    <CreationTime>2020-12-10T13:10:28</CreationTime>
+                    <DeletionTime>2021-10-27T10:21:53</DeletionTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>53755194920</Identifier>
+        <Title>CEMİL KURT</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-01-01T00:16:05</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:76190defaultpk@isnet.com</Name>
+                    <CreationTime>2021-01-01T00:16:05</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>9480683840</Identifier>
+        <Title>YENİÇAĞ HAZIR GİYİM TEKSTİL SANAYİ VE TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-06-27T00:00:11</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@yctekstil.com</Name>
+                    <CreationTime>2022-06-27T00:00:11</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@yctekstil.com</Name>
+                    <CreationTime>2022-06-27T00:00:11</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>35380215478</Identifier>
+        <Title>HASAN EREN  ORHAN</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2019-11-08T13:59:01</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@hasanerenorhan.com</Name>
+                    <CreationTime>2019-12-16T15:54:15</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@gmail.com</Name>
+                    <CreationTime>2019-11-08T13:59:01</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>40522524622</Identifier>
+        <Title>AYŞE KARAÇAY</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2018-08-06T17:04:57</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@aysekaracay.com</Name>
+                    <CreationTime>2018-08-06T17:06:03</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>41899900842</Identifier>
+        <Title>SEBAHATTİN YAVUZ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-01-01T00:41:59</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@yavuzhirdavat.com</Name>
+                    <CreationTime>2020-01-01T00:41:59</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:eirsaliyepk@yavuzhirdavat.com</Name>
+                    <CreationTime>2022-06-23T14:18:03</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>9330939256</Identifier>
+        <Title>YALIN PATENT ARGE DANIŞMANLIK LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-02-18T13:14:31</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@yalinpatent.com</Name>
+                    <CreationTime>2022-02-18T13:14:31</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>4620324564</Identifier>
+        <Title>HİDROTEK MÜH.ÇELİK.MEK.İNŞ.NAK.SAN.VE TİC.LTD.ŞTİ.</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-01-21T15:17:29</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:hidrotekpk@edmbilisim.com</Name>
+                    <CreationTime>2020-01-21T15:17:29</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:hidrotekpk@edmbilisim.com</Name>
+                    <CreationTime>2020-01-21T15:17:29</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>6110672588</Identifier>
+        <Title>MAKULOĞLU YAPI MALZEMELERİ İNŞAAT TAAHHÜT SANAYİ VE TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2019-04-05T17:19:33</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:makuloglupk@edmbilisim.com</Name>
+                    <CreationTime>2019-04-05T17:19:34</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>17185450988</Identifier>
+        <Title>BEKİR KIRCA</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-06-30T16:57:24</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:flower_pansiyonpk@edmbilisim.com</Name>
+                    <CreationTime>2022-06-30T16:57:24</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>9240878347</Identifier>
+        <Title>BAHÇELER İLKOKULU</Title>
+        <Type>KAMU</Type>
+        <FirstCreationTime>2021-03-31T09:30:10</FirstCreationTime>
+        <AccountType>ENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@muhasebat.gov.tr</Name>
+                    <CreationTime>2021-03-31T09:30:10</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>36118013496</Identifier>
+        <Title>YILMAZ UĞUR</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-01-14T17:40:43</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:uggurpk@ovinot.com</Name>
+                    <CreationTime>2022-03-22T09:40:28</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@gmail.com</Name>
+                    <CreationTime>2022-01-14T17:40:43</CreationTime>
+                    <DeletionTime>2022-03-22T09:40:28</DeletionTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>17941823230</Identifier>
+        <Title>AHMED SAİD DİNDAR</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-12-04T21:24:45</FirstCreationTime>
+        <AccountType>GIBPORTAL</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@gmail.com</Name>
+                    <CreationTime>2021-12-04T21:24:45</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>6191003887</Identifier>
+        <Title>MERYEMAY DIŞ TİCARET İTHALAT İHRACAT TEKSTİL SANAYİ LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-01-04T14:00:47</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@meryemay.com.tr</Name>
+                    <CreationTime>2020-01-04T14:00:47</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:eirsaliyepk@meryemay.com.tr</Name>
+                    <CreationTime>2020-06-30T22:11:27</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>7651222251</Identifier>
+        <Title>SEVİL ENDÜSTRİ MAKİNALARI SANAYİ VE TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-03-10T17:08:06</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@gmail.com</Name>
+                    <CreationTime>2021-03-10T17:08:06</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@gmail.com</Name>
+                    <CreationTime>2021-03-10T17:08:06</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>3330714654</Identifier>
+        <Title>EMA GRUP ENDÜSTRİYEL ISITMA SOĞUTMA ELEKTRİK İNŞAAT HIRDAVAT MALZEMELERİ TİCARET LTD.ŞTİ.</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-01-01T00:07:17</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@emaendustriyel.com</Name>
+                    <CreationTime>2020-01-01T00:07:17</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@emaendustriyel.com</Name>
+                    <CreationTime>2020-01-01T00:07:17</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>33943112882</Identifier>
+        <Title>ENGİN KARTAL</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-03-28T09:43:30</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:102946defaultpk@isnet.com</Name>
+                    <CreationTime>2022-03-28T09:43:30</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>7341707509</Identifier>
+        <Title>RASTAGRİ SERA SAN. VE TİC. LTD.ŞTİ.</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-11-17T12:28:12</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@rastagrisera.com</Name>
+                    <CreationTime>2021-11-17T12:28:12</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@rastagrisera.com</Name>
+                    <CreationTime>2021-11-17T12:28:12</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>2311342615</Identifier>
+        <Title>İSTANBUL ÇATALCA ÇATALCA ATATÜRK ANADOLU LİSESİ</Title>
+        <Type>KAMU</Type>
+        <FirstCreationTime>2021-03-31T09:30:10</FirstCreationTime>
+        <AccountType>ENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@muhasebat.gov.tr</Name>
+                    <CreationTime>2021-03-31T09:30:10</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>13239055468</Identifier>
+        <Title>BORÇİN TOPTAN GIDA PAZARLAMA</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-03-23T16:26:31</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:borcinticaretpk@hotmail.com</Name>
+                    <CreationTime>2020-03-23T16:26:31</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:borcinticaretpk@hotmail.com</Name>
+                    <CreationTime>2020-03-23T16:26:31</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>4540090659</Identifier>
+        <Title>HADEKS HALI DERİ TEKSTİL DIŞ TİC. A.Ş.</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2018-01-02T10:59:26</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:3077defaultpk@luca.com.tr</Name>
+                    <CreationTime>2021-10-25T09:41:35</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:subepk@hadeks.com</Name>
+                    <CreationTime>2018-01-02T11:00:26</CreationTime>
+                    <DeletionTime>2018-07-02T10:24:24</DeletionTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:efaturapk@hadeks.com</Name>
+                    <CreationTime>2018-01-02T10:59:45</CreationTime>
+                    <DeletionTime>2021-11-04T12:04:16</DeletionTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:3077defaultpk@luca.com.tr</Name>
+                    <CreationTime>2021-10-25T09:41:35</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>14234617828</Identifier>
+        <Title>MURAT ŞAHİN</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-06-28T21:15:12</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@mrtshn.com.tr</Name>
+                    <CreationTime>2022-06-28T21:15:12</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>49402778988</Identifier>
+        <Title>LUTFU YAMAN</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-01-01T00:00:52</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:lutfupk@edmbilisim.com</Name>
+                    <CreationTime>2022-01-17T15:39:20</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@ulusoyrulman.com</Name>
+                    <CreationTime>2022-01-10T17:07:20</CreationTime>
+                    <DeletionTime>2022-01-17T15:39:20</DeletionTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:96436defaultpk@isnet.com</Name>
+                    <CreationTime>2022-01-01T00:00:52</CreationTime>
+                    <DeletionTime>2022-01-10T15:38:39</DeletionTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:96436defaultpk@isnet.com</Name>
+                    <CreationTime>2022-01-01T00:00:52</CreationTime>
+                    <DeletionTime>2022-01-10T15:38:10</DeletionTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>4580332947</Identifier>
+        <Title>AYYTEKS TEKSTİL SANAYİ VE DIŞ TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-01-01T00:17:25</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@ayyteks.com</Name>
+                    <CreationTime>2020-01-01T00:17:25</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:irsaliyepk@ayyteks.com</Name>
+                    <CreationTime>2020-01-03T13:03:11</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>7340610264</Identifier>
+        <Title>RANUNA GIDA İNŞAAT TURİZM SANAYİ VE TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2019-03-27T12:39:59</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:ranunagidapk@edmbilisim.com</Name>
+                    <CreationTime>2019-04-04T13:01:14</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@ranuna.com</Name>
+                    <CreationTime>2019-03-27T12:39:59</CreationTime>
+                    <DeletionTime>2019-05-28T12:33:25</DeletionTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>46498128192</Identifier>
+        <Title>KÖKSAL ÜSTÜN</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-06-27T11:50:46</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@koksalustun.com</Name>
+                    <CreationTime>2022-06-27T11:50:59</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>6080457900</Identifier>
+        <Title>LARENDE ÖZEL SAĞLIK HİZMETLERİ EĞİTİM TARIM İNŞ. TUR. SAN. TİC. LTD. ŞTİ.</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-06-30T16:31:21</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:larendepk@edmbilisim.com</Name>
+                    <CreationTime>2020-06-30T16:31:21</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>3881395866</Identifier>
+        <Title>FMZ OTO YEDEK PARÇA SANAYİ VE TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-03-29T09:34:34</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@fmzotomotiv.com</Name>
+                    <CreationTime>2022-03-29T09:34:34</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>7531154583</Identifier>
+        <Title>SAVO İÇ VE DIŞ TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-01-28T15:59:40</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@savoicvedisticaret.com</Name>
+                    <CreationTime>2022-01-28T15:59:40</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>8240182353</Identifier>
+        <Title>TARIM VE KÖY İŞLERİBAKANLIĞI PINARHİSAR İLÇE MÜDÜRL</Title>
+        <Type>KAMU</Type>
+        <FirstCreationTime>2019-09-18T11:20:00</FirstCreationTime>
+        <AccountType>ENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@muhasebat.gov.tr</Name>
+                    <CreationTime>2019-09-18T11:20:00</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>29839540426</Identifier>
+        <Title>EMİRHAN KAYMAK</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-01-08T17:30:06</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@hotmail.com</Name>
+                    <CreationTime>2021-01-08T17:30:06</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>19115869044</Identifier>
+        <Title>HÜSEYİN BERAT ÖZDEMİR</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-07-05T13:35:29</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@beratozdemir78.com</Name>
+                    <CreationTime>2021-07-05T13:35:29</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>7340888552</Identifier>
+        <Title>RENGİN YILMAZ GÜZELLIK VE BAKIM HIZMETLERİ TIC.LTD.ŞTİ.</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2021-10-14T12:23:35</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@renginyilmaz.com</Name>
+                    <CreationTime>2021-10-14T12:23:35</CreationTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:irsaliyepk@renginyilmaz.com</Name>
+                    <CreationTime>2021-10-14T12:23:36</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>18269470366</Identifier>
+        <Title>NURİ KONUK</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-07-01T19:55:44</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@neoyazilim.com</Name>
+                    <CreationTime>2022-07-01T19:55:44</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>71401151820</Identifier>
+        <Title>RABİA VELİPAŞAOĞLU</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-12-28T16:06:29</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@rabiavelipasaoglu.com.tr</Name>
+                    <CreationTime>2021-12-15T16:34:52</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@rabiavelipasaoglu.com</Name>
+                    <CreationTime>2020-12-28T16:06:29</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>6430674483</Identifier>
+        <Title>ONDOKUZ MİMARLIK PROJE VE DANIŞMANLIK TİC.LTD.ŞTİ.</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-03-02T18:28:00</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@ondokuz.com.tr</Name>
+                    <CreationTime>2020-03-02T18:28:00</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>7990046694</Identifier>
+        <Title>ŞANAL METAL GERİ DÖNÜŞÜM TAŞIMACILIK SAN.TİC.LTD.ŞTİ.</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2020-07-07T12:37:58</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@sanalmetal.com</Name>
+                    <CreationTime>2021-01-11T11:20:26</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultpk@sanalmetal.com</Name>
+                    <CreationTime>2020-07-07T12:38:49</CreationTime>
+                    <DeletionTime>2021-01-11T09:40:07</DeletionTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:defaultpk@sanalmetal.com</Name>
+                    <CreationTime>2021-01-11T11:20:26</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:defaultirsaliyepk@sanalmetal.com</Name>
+                    <CreationTime>2020-07-14T13:35:46</CreationTime>
+                    <DeletionTime>2021-01-11T09:39:32</DeletionTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>6160741888</Identifier>
+        <Title>MERAM PAZARLAMA SANAYİ TİCARET LİMİTED ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2022-01-01T10:15:27</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:merampk@edmbilisim.com</Name>
+                    <CreationTime>2022-01-01T10:15:27</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+    <User>
+        <Identifier>8970428428</Identifier>
+        <Title>UTEST MALZEME TEST CİHAZLARI VE MAKİNELERİ İMALATI  VE DIŞ TİCARET ANONİM ŞİRKETİ</Title>
+        <Type>OZEL</Type>
+        <FirstCreationTime>2016-01-01T11:26:14</FirstCreationTime>
+        <AccountType>OZELENTEGRASYON</AccountType>
+        <Documents>
+            <Document type="Invoice">
+                <Alias>
+                    <Name>urn:mail:utestpk@utest.com.tr</Name>
+                    <CreationTime>2020-01-03T17:57:51</CreationTime>
+                </Alias>
+                <Alias>
+                    <Name>urn:mail:efinanspk@utest.com.tr</Name>
+                    <CreationTime>2016-01-01T11:26:14</CreationTime>
+                    <DeletionTime>2020-09-03T18:17:34</DeletionTime>
+                </Alias>
+            </Document>
+            <Document type="DespatchAdvice">
+                <Alias>
+                    <Name>urn:mail:utestpk@utest.com.tr</Name>
+                    <CreationTime>2020-01-03T17:57:51</CreationTime>
+                </Alias>
+            </Document>
+        </Documents>
+    </User>
+</UserList>
