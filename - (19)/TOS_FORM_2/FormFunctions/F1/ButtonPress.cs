@@ -111,7 +111,7 @@ namespace TOS_FORM_2.FormFunctions.F1
                     DataGridViewCellCollection cells = row.Cells;
                     for(int i = 0; i < cells.Count; i++)
                     {
-                        valuesString += $"'{cells[i].Value.ToString()}' ,";
+                        valuesString += $"'{cells[i].Value.ToString()}',";
                     }
                     valuesString = valuesString.Substring(0, valuesString.Length - 1);
                     string query = $"INSERT INTO '{Form1.selectedBankCode}_{Form1.selectedDesignID}'(CREATEDATE,USER,{string.Join(",", parameterNames)}) VALUES('{DateTime.Now.ToString("ddMMyyyyTHHmmss")}', '{Form1.User}', {valuesString})";
